@@ -1,3 +1,5 @@
+## Statistics
+![Zente Hollo Cegledi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cegledizente&show_icons=true&theme=radical)
 ### Hi there 👋
 
 <!--
