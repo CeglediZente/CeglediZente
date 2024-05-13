@@ -1,8 +1,10 @@
+<!--
 ## 📈 Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zentecegledi&show_icons=true&theme=radical)
 ![CodeForces Stats](https://raw.githubusercontent.com/zentecegledi/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZenteCegledi&theme=gruvbox&border_radius=4)](https://git.io/streak-stats)
-<!--
+
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
